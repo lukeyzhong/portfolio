@@ -711,6 +711,9 @@ Skills
   width: 50%;
   border-radius: var(--radius);
 }
+.value-30 {
+  width: 30%;
+}
 .value-70 {
   width: 70%;
 }
